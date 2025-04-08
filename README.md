@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a PhD economist-turned-into-programmer interested in many things related to data and software engineering, and in particular machine learning for social data, efficient and high-performance computing, and information retrieval. 
+I am a PhD economist-turned-into-programmer interested in many things related to data and software engineering, and in particular machine learning for economic & social data, efficient and high-performance computing, and information retrieval. 
 
 My programming skills focus on Python, R and SQL. I am curious about analytics with Apache Arrow, GPU-accelerated statistics, C++.
 
